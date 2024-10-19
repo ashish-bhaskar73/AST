@@ -32,3 +32,4 @@ This project is built using the **MERN** stack with **MySQL** for data storage i
 
    ```bash
    git clone https://github.com/ashish-bhaskar73/AST.git
+![Screenshot from 2024-10-20 00-55-22](https://github.com/user-attachments/assets/d8db171c-134e-44b0-a05f-0811da09b54e)
